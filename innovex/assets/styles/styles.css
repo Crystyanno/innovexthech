@@ -13,8 +13,6 @@
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
   }
-  
-
 
   /* Estilos da barra de navegação */
   nav {
@@ -158,10 +156,6 @@ color: #ef8f29;
     opacity: 1;
 }
 
-
-
-
-
 /* contact form */
 
 .contact-container {
@@ -200,10 +194,7 @@ background-color:#2cc76a ;
 color: #fff;
 cursor: pointer;
 
-
-
 }
-
   
   /* Media queries para tornar o site responsivo em diferentes tamanhos de tela */
   @media (max-width: 600px) {
