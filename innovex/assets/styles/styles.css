@@ -115,12 +115,12 @@ color: #ef8f29;
 
 /* qual dominio */
 .searchdomain-container {
-    background-color: #34454e;
+    background-color: var(--cor-background2);
     text-align: center;
     padding: 5rem 0;
 }
 .searchdomain-container h2 {
-    color: #fff;
+    color: var(--cor-texto);
     font-size: 42px;
     margin-bottom: 15px;
 }
